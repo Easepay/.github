@@ -11,4 +11,4 @@
 
 **Easepay is a Bitcoin Payment Solution for everyday commerce. With Easepay we have democratized payments for African Merchants:**
 
-**Easepay is Built on the Bitcoin Lightning Network, enabling micropayent transactions for Businesses**
+*Easepay is Built on the Bitcoin Lightning Network, enabling micropayent transactions for Businesses*
