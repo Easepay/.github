@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-![![Easepay Logo](https://user-images.githubusercontent.com/54026531/233501578-e39d0ea1-62ff-48fa-8e87-f2161f84b82b.png)
+![Easepay Logo](https://user-images.githubusercontent.com/54026531/233501578-e39d0ea1-62ff-48fa-8e87-f2161f84b82b.png)
 
 
 
