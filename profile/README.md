@@ -13,4 +13,4 @@
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 -->
 
-*Easepay is Built on the Bitcoin Lightning Network, enabling micropayent transactions for Businesses*
+*Easepay is Built on the Bitcoin Lightning Network, enabling micropayment transactions for Businesses*
